@@ -15,11 +15,11 @@ This project analyzes the **UK online retail dataset (Kaggle)** using **SQL (SQL
 
 ## Project Structure
 sql-retail-analytics/
-├─ data/ # raw input data (zip.csv)
-├─ images/ # analysis results (png plots)
-├─ notebooks/ # Kaggle notebook
-├─ outputs/ # analysis results (csv)
-└─ README.md
+- README.md
+- data/ # raw input data (zip.csv)
+- images/ # analysis results (png plots)
+- notebooks/ # Kaggle notebook
+- outputs/ # analysis results (csv)
 
 ---
 
