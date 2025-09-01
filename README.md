@@ -32,7 +32,7 @@ sql-retail-analytics/
   - Top 10 customers & products by revenue.
 4. **New vs. Returning revenue (`v_new_vs_return`)**
   - First purchase month vs. subsequent purchases -> retention trend.
-5. ** Country-level Revenue**
+5. **Country-level Revenue**
   - Top revenue contries.
 6. **Visualization**
   - Monthly revenue trend (line plot)
